@@ -1,7 +1,9 @@
+
+
 # Bienvenido
 
+My name is Javier Pineda
 ## Who I am?
-My Name is
 Passionate about web development and problem solving. Expert in collaborative work, project strategies and dedication to achieving excellence. With several projects in my career, from basic initiatives to advanced Fullstack developments.
 
 ## Skills
