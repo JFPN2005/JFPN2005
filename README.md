@@ -1,16 +1,13 @@
-### Hi there 👋
+# Bienvenido
 
-<!--
-**JFPN2005/JFPN2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Who I am?
+My Name is
+Passionate about web development and problem solving. Expert in collaborative work, project strategies and dedication to achieving excellence. With several projects in my career, from basic initiatives to advanced Fullstack developments.
 
-Here are some ideas to get you started:
+## Skills
+I have explored HTML5, CSS3, SASS, JavaScript, TypeScriptPHP, SQL (MySQL and SQL Server), Ajax, Fetch, Node.js, Npm, React and other technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Social Networks
+  - https://github.com/JFPN2005/JFPN2005/edit/main/README.md
+  - https://www.linkedin.com/in/javier-francisco-pineda-neder-6385b6261/?trk=opento_sprofile_details
+  - https://www.facebook.com/javierfrancisco.pinedaneder.79
