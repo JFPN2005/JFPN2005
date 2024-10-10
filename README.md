@@ -2,7 +2,7 @@
 
 # Bienvenido
 
-My name is Javier Pineda
+Hello and thank you for view my perfil, My name is Javier Pineda
 ## Who I am?
 Passionate about web development and problem solving. Expert in collaborative work, project strategies and dedication to achieving excellence. With several projects in my career, from basic initiatives to advanced Fullstack developments.
 
